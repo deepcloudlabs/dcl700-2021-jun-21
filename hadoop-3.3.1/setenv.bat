@@ -1,0 +1,9 @@
+set JAVA_HOME=d:\stage\opt\jdk1.8.0_231
+set PATH=%JAVA_HOME%/bin;%PATH%
+set HADOOP_HOME=d:\stage\opt\hadoop-3.3.1
+set HADOOP_CONF_DIR=d:\stage\opt\hadoop-3.3.1\etc\hadoop
+set HADOOP_MAPRED_HOME=d:\stage\opt\hadoop-3.3.1
+set HADOOP_COMMON_HOME=d:\stage\opt\hadoop-3.3.1
+set HADOOP_HDFS_HOME=d:\stage\opt\hadoop-3.3.1
+set HADOOP_YARN_HOME=d:\stage\opt\hadoop-3.3.1
+set PATH=%HADOOP_HOME%\bin;%HADOOP_HOME%\sbin;%PATH%
